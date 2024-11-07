@@ -16,7 +16,6 @@ https://github.com/user-attachments/assets/89699b85-ef1d-42e6-8a75-a55eeca6f5d7
 - Koin
 - Flow
 - Ktor-Client
-- Glide
   
 
 ### Let's get connected
